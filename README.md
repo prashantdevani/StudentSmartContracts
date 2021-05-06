@@ -18,4 +18,4 @@
 2. use url to view UI in browser http://localhost:16000
 
 ### Screenshots
-![1](Screenshots/1.jpg)
+![1](screenshots/1.jpg)
